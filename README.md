@@ -17,7 +17,7 @@ https://luqxcz.github.io/youtube/
 
 ## Screenshots
 
-###Homepage
+### Homepage
 
 ![Homepage](/screenshots/homepage.jpg?raw=true "YouTube HomePage")
 
